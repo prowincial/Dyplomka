@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "635837920634",
+    "firebase_url": "https://dyplomka-85e43.firebaseio.com",
+    "project_id": "dyplomka-85e43",
+    "storage_bucket": "dyplomka-85e43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635837920634:android:1055fa83ada7ce6a7d12c3",
+        "android_client_info": {
+          "package_name": "com.example.dyplomka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635837920634-mc8480q05psb98sbqpe0scjg19tquj65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dyplomka",
+            "certificate_hash": "7e769fc6f339bac5c7bd44f4b75d49b00f9bfaff"
+          }
+        },
+        {
+          "client_id": "635837920634-j1fvupmgv2lkh0v8fvdbinecnevk748h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1G4sbdgPNDbpYJdRU0IL2vuTXrPebjPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635837920634-j1fvupmgv2lkh0v8fvdbinecnevk748h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
